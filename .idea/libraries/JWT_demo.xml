@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JWT-demo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JWT-demo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
